@@ -1,0 +1,124 @@
+.logo{
+    height:60px;
+    width: 60px;
+}
+
+#navitem1{
+    color:black;
+    font-family:roboto;
+}
+#navitem2{
+    color:black;
+    font-family:roboto;
+}
+#navitem3{
+    color:black;
+    font-family:roboto;
+}
+#navitem4{
+    color:black;
+    font-family:roboto;
+}
+.bg-image{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size:cover;
+    height:100vh;
+}
+.heading{
+    font-size:40px;
+    font-weight:600px;
+    color:white;
+    font-family: italic;
+}
+.para1{
+    font-size:30px;
+    font-weight:400px;
+    color:rgb(28, 194, 128);
+    font-family: italic;
+}
+.content{
+    text-align:center;
+}
+.button1{
+    background-color: yellow;
+    margin-right: 10px;
+    border-radius:8px;
+    color:blue;
+    margin-top:auto;
+    width: 130px;
+    height: 40px;
+}
+.button2{
+    background-color: yellow;
+    margin-right: 10px;
+    border-radius:8px;
+    color:blue;
+    margin-top:auto;
+    width: 130px;
+    height: 40px;
+}
+.bg-color{
+    background-color:  #f9fbfe;
+}
+
+.why-head{
+    font-size:50px;
+    font-weight:600px;
+    color:balck;
+    font-family: italic;
+
+}
+.why-para{
+    font-size:30px;
+    font-weight:400px;
+    color:black;
+    font-family: italic;
+}
+.card-image{
+    height: 60px;
+    width:60px;
+}
+.card-bord{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+  }
+  .menu-bg{
+    background-color:white;
+  }
+  .menu-head{
+    font-size:30px;
+    font-weight: 500px;
+    font-style:italic;
+  }
+  .explore-menu-section {
+    background-color: white;
+  }
+  .menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .menu-item-image {
+    border-radius: 16px;
+  }
+  .menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .menu-item-card {
+    border-radius: 16px;
+  }
